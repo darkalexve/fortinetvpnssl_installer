@@ -44,7 +44,7 @@ case $architecture  in
 		tar zxf forticlientsslvpn_linux_4-0-2281-tar.gz
 		cp -r forticlientsslvpn /opt/
 		cp forticlientsslvpn.gif /opt/forticlientsslvpn/
-		ccpForticlient.desktop /usr/share/applications/
+		cp Forticlient.desktop /usr/share/applications/
 		echo "Instalacion finalizada, busca el icono en tu escritorio y ejecutalo"
 		sleep 3
 esac
