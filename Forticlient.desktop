@@ -1,0 +1,12 @@
+[Desktop Entry]
+Version=4.0.2281
+Type=Application
+Terminal=false
+Categories=Network
+Icon[en_AU]=/opt/forticlientsslvpn/forticlientsslvpn.gif
+Icon=/opt/forticlientsslvpn/forticlientsslvpn.gif
+Exec=sudo /opt/forticlientsslvpn/forticlientsslvpn
+Name[en_AU]=Forticlient
+Comment[en_AU]=Forticlient SSL VPN
+Name=Forticlient SSL VPN
+Comment=Forticlient SSL VPN
